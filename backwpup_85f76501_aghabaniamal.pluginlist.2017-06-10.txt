@@ -1,0 +1,32 @@
+------------------------------------------------------------
+  Plugin list generated with BackWPup version: 3.4.0
+  http://backwpup.com
+  Blog Name: aghabaniamal
+  Blog URL: http://aghabaniamal.com
+  Generated on: 2017-06-10 23:51.52
+------------------------------------------------------------
+
+
+All plugin information:
+------------------------------
+Akismet Anti-Spam (v.3.3.2) from Automattic
+	https://akismet.com/
+BackWPup (v.3.4.0) from Inpsyde GmbH
+	http://backwpup.com
+Better REST API Featured Images (v.1.2.1) from Braad Martin
+	https://wordpress.org/plugins/better-rest-api-featured-images/
+Hello Dolly (v.1.6) from Matt Mullenweg
+	http://wordpress.org/plugins/hello-dolly/
+Toolset Types (v.2.2.11) from OnTheGoSystems
+	http://wordpress.org/extend/plugins/types/
+
+Active plugins:
+------------------------------
+BackWPup
+Better REST API Featured Images
+Toolset Types
+
+Inactive plugins:
+------------------------------
+Akismet Anti-Spam
+Hello Dolly
